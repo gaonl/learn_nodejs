@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaonl/learn_nodejs.git"
+  },
+  "keywords": [
+    "gaonl",
+    "learn",
+    "nodejs"
+  ],
+  "author": "gaonl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaonl/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/gaonl/learn_nodejs#readme"
+}

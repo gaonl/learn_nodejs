@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>student list</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td>id</td><td>name</td><td>age</td>
+            </tr>
+            <tr>
+                <td>1</td><td>gaonl</td><td>yms</td>
+            </tr>
+        </table>
+    </body>
+</html>
